@@ -38,3 +38,7 @@
 .red-theme {
     background-color: #9d8b84;
 }
+
+.hidden {
+    display: none;
+}
