@@ -27,6 +27,14 @@
     background-repeat: no-repeat;
 }
 
-body {
+.green-theme {
     background-color: #849D8F;
+}
+
+.blue-theme {
+    background-color: #8996a6;
+}
+
+.red-theme {
+    background-color: #9d8b84;
 }
