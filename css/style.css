@@ -1,29 +1,29 @@
 .promotion_1 {
     color: rgb(255, 255, 255);
-    background-image: url(../img/raspberry_promotion_background.png);
+    background-image: url(../img/backgrounds/raspberry-promo-background.jpg);
     background-repeat: no-repeat;
 }
 
 .promotion_2 {
     color: rgb(255, 255, 255);
-    background-image: url(../img/chocolate_promo_background.png);
+    background-image: url(../img/backgrounds/chocolate-promo-background.jpg);
     background-repeat: no-repeat;
 }
 
 .advantages {
     color: #323232;
-    background-image: url(../img/advantages_background.png);
+    background-image: url(../img/backgrounds/advantages-background.jpg);
     background-repeat: no-repeat;
 }
 
 .blog {
     color: #323232;
-    background-image: url(../img/blog_background.png);
+    background-image: url(../img/backgrounds/blog-background.jpg);
     background-repeat: no-repeat;
 }
 .subscribe {
     color: #5A5A5A;
-    background-image: url(../img/subscribe_background.png);
+    background-image: url(../img/backgrounds/subscribe-background.jpg);
     background-repeat: no-repeat;
 }
 
