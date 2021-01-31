@@ -1,10 +1,10 @@
-.promotion_1 {
+.promotion-item-left {
     color: rgb(255, 255, 255);
     background-image: url(../img/backgrounds/raspberry-promo-background.jpg);
     background-repeat: no-repeat;
 }
 
-.promotion_2 {
+.promotion-item-right {
     color: rgb(255, 255, 255);
     background-image: url(../img/backgrounds/chocolate-promo-background.jpg);
     background-repeat: no-repeat;

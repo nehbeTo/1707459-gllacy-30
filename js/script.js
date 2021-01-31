@@ -1,4 +1,4 @@
-let page = document.querySelector('.page');
+let page = document.querySelector('.page-body');
 let greenBackground = document.querySelector('.green-promo-background');
 let blueBackground = document.querySelector('.blue-promo-background');
 let redBackground = document.querySelector('.red-promo-background');
